@@ -1,0 +1,15 @@
+.home{
+    display:flex;
+    flex-wrap: wrap;
+    gap:40px;
+    padding:20px;
+    justify-content: center;
+}
+
+.card{
+    height: 200px;
+    width: 400px;
+    padding:20px;
+    border: 2px solid grey;
+    border-radius:20px;
+}
